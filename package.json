@@ -4,9 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --config webpack.config.js"
+    "build:production": "node --version"
   },
-  
   "keywords": [],
   "author": "",
   "license": "ISC",
